@@ -1,0 +1,14 @@
+https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
+
+Also, while clustering it is not advised to normalize data that are drawn from multiple distributions.
+
+algs:
+    K-means
+            Num of clusters (elbow method, The silhouette coefficient) -> https://realpython.com/k-means-clustering-python/
+    Fuzzy K-means
+    Hierarchical clustering
+    Mixture of Gaussians
+While, K-means is an exclusive clustering algorithm, Fuzzy K-means is an overlapping clustering algorithm, Hierarchical clustering is obvious and lastly Mixture of Gaussians is a probabilistic clustering algorithm. 
+
+Outlier Detection!
+PCA
