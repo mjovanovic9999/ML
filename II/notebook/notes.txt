@@ -8,7 +8,9 @@ algs:
     Fuzzy K-means
     Hierarchical clustering
     Mixture of Gaussians
-While, K-means is an exclusive clustering algorithm, Fuzzy K-means is an overlapping clustering algorithm, Hierarchical clustering is obvious and lastly Mixture of Gaussians is a probabilistic clustering algorithm. 
+While, K-means is an exclusive clustering algorithm, 
+Fuzzy K-means is an overlapping clustering algorithm, 
+Hierarchical clustering is obvious and lastly Mixture of Gaussians is a probabilistic clustering algorithm. 
 
 Outlier Detection!
 PCA
