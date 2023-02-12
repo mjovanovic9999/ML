@@ -14,3 +14,28 @@ Hierarchical clustering is obvious and lastly Mixture of Gaussians is a probabil
 
 Outlier Detection!
 PCA
+
+zakljucak
+1   malo uspesniji
+    ne odsustvuju
+    manje piju
+    slozne porodice
+    najvise uce
+
+2   odsustvuju
+    ima ponovaca
+    najmanje uce
+    uzimaju placene
+    pretezno zauzeti
+
+3   malo odsustvuju
+    vise piju
+    losiji odnosi u porodici
+    vise ponovaca
+
+4   malo neuspesniji
+    dosta odsustvuju
+    najmanje izlaze
+    najmanje slobodnog vremena
+    dodatni casovi
+    pretezno zauzeti
